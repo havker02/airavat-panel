@@ -1,0 +1,10 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyAfZiUauwBDDvdNHQy-sy-OHgWBkg5hL7E",
+  authDomain: "static-sum-464113-v1.firebaseapp.com",
+  databaseURL: "https://static-sum-464113-v1-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "static-sum-464113-v1",
+  storageBucket: "static-sum-464113-v1.firebasestorage.app",
+  messagingSenderId: "255588617346",
+  appId: "1:255588617346:web:a648b4bb10f6987505b89b",
+  measurementId: "G-XTRQFSY34Y"
+};
